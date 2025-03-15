@@ -1,11 +1,11 @@
-# MacDoc (MyDockFinder) Theme
+# MacDock (MyDockFinder) Theme
 A theme for windows to change the Doc and top bar like MacOS
 ![img](https://github.com/user-attachments/assets/b03a30fb-09ea-4a1c-ab02-b497f42e22af)
 
 <hr>
 
 ## Installation Steps
-- Download .rar file from [releases](https://github.com/Someone-You-Dont-Know/MacDoc/releases)
+- Download .rar file from [releases](https://github.com/Someone-You-Dont-Know/MacDock/releases)
 - **Extract the `.rar` file**
 - **Move the `MyDockFinder` folder** to `C:/`
 - **Run `Mydock.exe`** from `C:/MyDockFinder`
